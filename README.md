@@ -13,12 +13,12 @@ This repository contains a collection of projects and exercises designed to enha
 
 ## Directories
 
-| Directory                         | Description                                                                 |
-|-----------------------------------|-----------------------------------------------------------------------------|
-| 0x00-python_variable_annotations  | Projects focusing on variable annotations in Python, covering type hints and type checking. |
-| 0x01-python_async_function        | Exercises on asynchronous programming with Python, including async functions and concurrency. |
-| 0x02-python_async_comprehension   | Tasks related to asynchronous comprehensions and the use of async iterators in Python. |
-| 0x03-Unittests_and_integration_tests | Projects on writing unittests and integration tests to ensure code reliability and correctness. |
+| Directory                                                                    | Description                                                                                     |
+|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [0x00-python_variable_annotations](0x00-python_variable_annotations)         | Projects focusing on variable annotations in Python, covering type hints and type checking. |
+| [0x01-python_async_function](0x01-python_async_function)                     | Exercises on asynchronous programming with Python, including async functions and concurrency. |
+| [0x02-python_async_comprehension](0x02-python_async_comprehension )          | Tasks related to asynchronous comprehensions and the use of async iterators in Python. |
+| [0x03-Unittests_and_integration_tests](0x03-Unittests_and_integration_tests) | Projects on writing unittests and integration tests to ensure code reliability and correctness. |
 
 ## Author :pencil:
 
