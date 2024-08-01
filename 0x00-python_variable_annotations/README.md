@@ -40,7 +40,7 @@ In Python 3, type annotations do not change this. Python is still a dynamically-
 
 </details>
 
-![Image](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fy9y25tefi5401.png)
+![Image](https://i.postimg.cc/850HBh4b/reddit.png)
 
 ## Resources
 
