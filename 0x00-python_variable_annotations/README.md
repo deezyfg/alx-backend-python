@@ -77,7 +77,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Tasks :card_file_box:
 
-### MAndatory:
+### Mandatory:
 
 #### [0. Basic annotations - add](0-add.py)
 Write a type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float.

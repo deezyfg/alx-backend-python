@@ -4,9 +4,9 @@
 
 > Variable Annotations, Asynchronous Functions, Asynchronous Comprehensions, Unit Tests, and Integration Tests
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/deezyfg/alx-backend-javascript)
-![GitHub Repo License: MIT](https://img.shields.io/github/license/deezyfg/alx-backend-javascript)
-![GitHub Latest commit](https://img.shields.io/github/last-commit/deezyfg/alx-backend-javascript?style=round-square)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/deezyfg/alx-backend-python)
+![GitHub Repo License: MIT](https://img.shields.io/github/license/deezyfg/alx-backend-python)
+![GitHub Latest commit](https://img.shields.io/github/last-commit/deezyfg/alx-backend-python?style=round-square)
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png" width = "100%" height = "50%"/>
 
