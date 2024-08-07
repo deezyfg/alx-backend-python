@@ -3,8 +3,7 @@
 
 This project focuses on introducing asynchronous programming in Python, specifically using the `asyncio` library.  It covers writing asynchronous coroutines, managing tasks, and handling concurrency to perform multiple operations simultaneously. The project emphasizes understanding the `async` and `await` syntax, which are key components in writing non-blocking code in Python.
 
-
-![Image](https://i.postimg.cc/R0rYQyGr/async.png)
+![Image](https://i.postimg.cc/7PFcr64c/async.png)
 
 Resources :books:
 -----------------
