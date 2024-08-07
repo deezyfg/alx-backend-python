@@ -4,7 +4,7 @@ This project focuses on introducing and implementing asynchronous comprehension 
 
 ![Image](https://i.postimg.cc/sgV3y1cK/tweet.png)
 
-## Resources
+## Resources :books:
 
 **Read or watch:**
 
@@ -12,7 +12,7 @@ This project focuses on introducing and implementing asynchronous comprehension 
 * [What’s New in Python: Asynchronous Comprehensions / Generators](https://www.blog.pythonlibrary.org/2017/02/14/whats-new-in-python-asynchronous-comprehensions-generators/)
 [Type-hints for generators](https://stackoverflow.com/questions/42531143/how-to-type-hint-a-generator-in-python-3)
 
-## Learning Objectives
+## Learning Objectives :bulb:
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 * How to write an asynchronous generator
@@ -33,7 +33,7 @@ All your functions should have a documentation (`python3 -c 'print(__import__("m
 * A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 * All your functions and coroutines must be type-annotated.
 
-## Tasks
+## Tasks :card_file_box:
 
 ### Mandatory
 
